@@ -33,14 +33,12 @@ This project includes a responsive web application with a Django backend, fronte
 
 ## Technologies Used
 - Frontend:
-  - HTML5
-  - CSS3
+  - TailwindCSS
   - JavaScript
-  - React.js (optional)
+  - React.js 
 - Backend:
   - Django
   - Django Channels (WebSocket)
-  - PostgreSQL
 - AWS:
   - Lambda
   - S3
